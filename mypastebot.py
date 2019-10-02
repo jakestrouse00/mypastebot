@@ -35,7 +35,7 @@ class Create:
 
 class Search:
     @staticmethod
-    def find(term, limit, sortType):
+    def find(term, limit, sortType=''):
         # term = what to look for
         # limit = amount of results
         # sortType = '' for relevance, 'date' for by date
