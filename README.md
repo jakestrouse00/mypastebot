@@ -1,5 +1,5 @@
 # MyPasteBot
-A simple Pastebin.com package to create guest pastes, find new public pastes and more!
+A simple https://pastebin.com package to create guest pastes, find new public pastes and more!
 
 ## prerequisites
 requests==2.22.0
