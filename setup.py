@@ -19,5 +19,5 @@ setup(name='mypastebot',
           "License :: OSI Approved :: MIT License",
           "Operating System :: OS Independent",
       ],
-      install_requires=['requests==2.22.0'],
+      install_requires=['requests==2.31.0'],
       python_requires='>=3.6')
